@@ -1,0 +1,1 @@
+# hgede.kanji_flash
